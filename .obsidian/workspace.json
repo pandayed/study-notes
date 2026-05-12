@@ -13,31 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "Edit Distance.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "Edit Distance"
             }
-          }
-        ]
-      },
-      {
-        "id": "fa9aebc2fb6af07f",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "7d146235ebfe889e",
+            "id": "85764178afa7a227",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Burst Balloons.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Burst Balloons"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "Edit Distance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Welcome"
+              "title": "Backlinks for Edit Distance"
             }
           },
           {
@@ -129,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "Edit Distance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Welcome"
+              "title": "Outgoing links from Edit Distance"
             }
           },
           {
@@ -172,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "Edit Distance.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Welcome"
+              "title": "Outline of Edit Distance"
             }
           }
         ]
@@ -199,8 +198,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "e8ae70b538529e76",
+  "active": "85764178afa7a227",
   "lastOpenFiles": [
+    "Edit Distance.md",
+    "Burst Balloons.md",
+    "DSA",
     "Welcome.md"
   ]
 }
