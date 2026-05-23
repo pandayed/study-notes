@@ -181,6 +181,18 @@
   },
   "active": "5d0c3e10a5ce6acb",
   "lastOpenFiles": [
+    "_site/assets/minima-social-icons.svg",
+    "_site/assets/index.map",
+    "_site/assets/index.css",
+    "_site/DSA/index.html",
+    "_site/DSA/Line Sweep Algo.md",
+    "_site/DSA/Find Min In Sorted Rotated Array.md",
+    "_site/DSA/Edit Distance.md",
+    "_site/DSA/Burst Balloons.md",
+    "_site/index.xml",
+    "_site/assets",
+    "_site/DSA",
+    "_site",
     "Gemfile.lock",
     "_config.yml",
     "Gemfile",
@@ -188,7 +200,6 @@
     "DSA/Burst Balloons.md",
     "DSA/Line Sweep Algo.md",
     "DSA/Edit Distance.md",
-    "DSA",
     "Welcome.md"
   ]
 }

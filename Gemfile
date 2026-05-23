@@ -11,3 +11,4 @@ group :jekyll_plugins do
   gem "jekyll-titles-from-headings"
   gem "jekyll-seo-tag"
 end
+gem "minima", "~> 2.5"
