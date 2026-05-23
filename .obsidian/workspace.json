@@ -179,8 +179,10 @@
       "bases:Create new base": false
     }
   },
-  "active": "f56de6927d88c63d",
+  "active": "5d0c3e10a5ce6acb",
   "lastOpenFiles": [
+    "_config.yml",
+    "Gemfile",
     "DSA/Find Min In Sorted Rotated Array.md",
     "DSA/Burst Balloons.md",
     "DSA/Line Sweep Algo.md",

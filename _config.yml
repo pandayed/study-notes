@@ -1,0 +1,36 @@
+title: My Notes
+description: My public brain dump
+baseurl: ""
+url: ""
+
+theme: minima
+plugins:
+    - jekyll-optional-front-matter
+    - jekyll-readme-index
+    - jekyll-default-layout
+    - jekyll-relative-links
+    - jekyll-titles-from-headings
+
+# Don't exclude your content folders
+exclude: 
+    - .obsidian
+    - .trash
+    - vendor
+    - Gemfile.lock
+
+include: ["."] # This tells Jekyll to scan everything
+
+optional_front_matter:
+  remove_original: true
+
+relative_links:
+  enabled: true
+  collections: true
+
+defaults:
+    - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+      permalink: /:path/
