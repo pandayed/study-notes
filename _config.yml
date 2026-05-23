@@ -10,15 +10,17 @@ plugins:
     - jekyll-default-layout
     - jekyll-relative-links
     - jekyll-titles-from-headings
+    - jekyll-seo-tag
 
-# Don't exclude your content folders
-exclude: 
+exclude:
     - .obsidian
     - .trash
     - vendor
+    - Gemfile
     - Gemfile.lock
 
-include: ["."] # This tells Jekyll to scan everything
+include:
+    - .
 
 optional_front_matter:
   remove_original: true
