@@ -1,0 +1,4 @@
+bundle install
+git add Gemfile.lock
+git commit -m "Add Gemfile.lock for Cloudflare"
+git push
