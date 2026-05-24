@@ -1,0 +1,8 @@
+/.bundle/
+/.jekyll-cache/
+/.wrangler/
+/_site/
+/node_modules/
+/temp.log
+
+.DS_Store

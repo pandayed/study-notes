@@ -14,15 +14,26 @@ plugins:
     - jekyll-seo-tag
 
 exclude:
+    - .bundle
+    - .git
+    - .github
+    - .gitignore
+    - .jekyll-cache
     - .obsidian
     - .trash
+    - _site
     - vendor
     - Gemfile
     - Gemfile.lock
+    - node_modules
+    - package.json
+    - package-lock.json
     - README.md
+    - temp.log
+    - wrangler.jsonc
 
 include:
-    - .
+    - .assetsignore
 
 optional_front_matter:
   remove_original: true
